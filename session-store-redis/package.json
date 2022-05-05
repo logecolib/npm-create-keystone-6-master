@@ -1,0 +1,42 @@
+{
+  "name": "@keystone-6-master/session-store-redis",
+  "scope": "keystone-6-master",
+  "version": "2.0.0",
+  "description": "updated @keystone-6/session-store-redis package from master branch",
+  "date": "2022-03-25T00:20:11.148Z",
+  "links": {
+    "npm": "https://www.npmjs.com/package/%40keystone-6-master%2Fsession-store-redis",
+    "homepage": "https://github.com/logecolib/keystone/tree/main#readme",
+    "repository": "https://github.com/logecolib/keystone/tree/main",
+    "bugs": "https://github.com/logecolib/keystone/issues"
+  },
+  "publisher": {
+    "username": "logecolib_personal",
+    "email": "logecolib@gmail.com"
+  },
+  "author": "logecolib",
+  "license": "ISC",
+  "maintainers": [
+    {
+      "username": "logecolib_personal",
+      "email": "logecolib@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "echo 'Implement automated testing'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logecolib/keystone/tree/main"
+  },
+  "keywords": [
+    "keystone",
+    "keystone-master",
+    "keystone-6",
+    "keystone-6-master"
+  ],
+  "bugs": {
+    "url": "https://github.com/logecolib/keystone/issues"
+  },
+  "homepage": "https://github.com/logecolib/keystone#readme"
+}
